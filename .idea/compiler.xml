@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="api_main" target="1.8" />
+      <module name="api_test" target="1.8" />
+      <module name="benchmark_main" target="1.8" />
+      <module name="benchmark_test" target="1.8" />
+      <module name="impl_main" target="1.8" />
+      <module name="impl_test" target="1.8" />
+      <module name="lib_main" target="1.8" />
+      <module name="lib_test" target="1.8" />
+      <module name="matrixlayering_main" target="1.8" />
+      <module name="matrixlayering_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
